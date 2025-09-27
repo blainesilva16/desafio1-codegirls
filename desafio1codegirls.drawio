@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uTE-hvv2DO3vGbChtj80-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="90" width="30" height="60" as="geometry" />
+          <mxGeometry x="49.05" y="50" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uTE-hvv2DO3vGbChtj80-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uTE-hvv2DO3vGbChtj80-2" target="uTE-hvv2DO3vGbChtj80-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uTE-hvv2DO3vGbChtj80-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="163.45" y="80" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="163.45" y="48.19999999999999" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="uTE-hvv2DO3vGbChtj80-7" value="AWS - RDS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.rds;fillColor=#2E73B8;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="260" width="72" height="81" as="geometry" />
